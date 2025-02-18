@@ -16,6 +16,11 @@
 
 ### 🏆 Hackathons
 
+- *1st Place - BNB Q4 Hack (Sonorus Track)*
+
+- *3rd Place - BNB Q4 Hack*
+  
+
 - *1st Place - Solana Foundation Hackathon (Governance Track) at DSCVR Hackathon*  
 
 
