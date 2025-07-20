@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Rust, Move**  
 - 💬 Ask me about **web2/web3**  
 - 📫 Reach me at **mishrapreyanshu@gmail.com**  
-- 📄 [Check out my experiences](https://drive.google.com/file/d/1CDbaYgBoHdp_u73AVJvmk8VWtbm8TJ-9/view?usp=sharing)
 - ⚡ Fun fact **I speak fluent code.**
 
 ### 🚀 Recent Projects
@@ -36,7 +35,6 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://twitter.com/preyanshu2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preyanshu2005" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/preyanshu-mishra-909772212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyanshu-mishra-909772212" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="left">Languages and Tools:</h3>  
