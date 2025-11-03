@@ -6,6 +6,19 @@
 - 📫 Reach me at **mishrapreyanshu@gmail.com**
 - ⚡ Fun fact **I speak fluent code.**
 
+
+
+### 🏆 Hackathons
+
+- **1st Place (DeFi)** - Andromeda x Cracked Labs Buildathon
+- **Winner (Honorable Mention)** - Launch.io Hackathon
+- **1st Place (Sonorus Track)** - BNB Q4 Hackathon
+- **3rd Place (BNB Q4)** - BNB Q4 Hackathon
+- **1st Place (Solana Foundation)** - DSCVR Hackathon
+- **7th Place (Metaplex Track)** - DSCVR Hackathon
+- **1st Place** - StellarScape Explorer Hackathon by Andromeda
+- **Grand Finalist** - Smart India Hackathon (SIH) 2023
+
 ### 🚀 Recent Projects
 
 - **[DataSculpt](https://github.com/preyanshu/datasculpt)** – Decentralized platform on Aptos for generating high-integrity AI datasets, where users design task frameworks, contributors are autonomously compensated, and a reputation layer enforces reliability and accuracy. Supports CSV dataset uploads, automated payouts, and real-time dashboards for both creators and workers. Built to promote privacy, fairness, and transparency in collaborative data generation.
@@ -23,17 +36,6 @@
 - **[Secure-Pay](https://github.com/preyanshu/secure-pay)** – Reversible payment system for the Somnia ecosystem, enabling users to send and receive cryptocurrency using simple usernames instead of complex wallet addresses with automatic refunds for unclaimed payments.
 
 - **[Rust-based Solana DeFi Liquidation Detector](https://github.com/preyanshu/liquidation-indexer)** – Rust-based liquidation indexer for Drift Protocol on Solana using Yellowstone gRPC. Supports real-time liquidation detection, webhook alerts with configurable severity, and Postgres integration for persistent indexing.
-
-### 🏆 Hackathons
-
-- **1st Place (DeFi)** - Andromeda x Cracked Labs Buildathon
-- **Winner (Honorable Mention)** - Launch.io Hackathon
-- **1st Place (Sonorus Track)** - BNB Q4 Hackathon
-- **3rd Place (BNB Q4)** - BNB Q4 Hackathon
-- **1st Place (Solana Foundation)** - DSCVR Hackathon
-- **7th Place (Metaplex Track)** - DSCVR Hackathon
-- **1st Place** - StellarScape Explorer Hackathon by Andromeda
-- **Grand Finalist** - Smart India Hackathon (SIH) 2023
 
 <h3 align="left">Connect with me:</h3>
 
