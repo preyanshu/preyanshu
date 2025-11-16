@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Preyanshu</h1>
 
-- 🔭 I'm currently working on [CipherCanvas](https://github.com/preyanshu/ciphercanvas)
+- 🔭 I'm currently working on [CipherCanvas](https://github.com/preyanshu/ciphercanvas) , [Multi Party Eddsa](https://github.com/preyanshu/multi-party-eddsa)
 - 🌱 I'm currently learning **Rust, Move**
 - 💬 Ask me about **web3**
 - 📫 Reach me at **mishrapreyanshu@gmail.com**
