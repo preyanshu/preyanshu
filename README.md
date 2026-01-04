@@ -1,5 +1,5 @@
 
-**Web3 Developer / Engineer**  
+**Web3 Developer / Software Engineer**  
 @andromedaprotocol | prev. Wells Fargo, Heliverse
 
 **Recent work includes:**
