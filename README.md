@@ -1,6 +1,6 @@
 
 **Web3 Developer / Software Engineer**  
-@andromedaprotocol | prev. Wells Fargo, Heliverse
+technology program intern@Wells Fargo | prev. web3 dev @andromedaprotcol, Heliverse
 
 **Recent work includes:**
 -   Capital-efficient quantum agentic prediction markets (real-world asset strategies, deploy 100% capital) — [Repo](https://github.com/preyanshu/verdict)
