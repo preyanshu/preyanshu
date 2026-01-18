@@ -3,7 +3,7 @@
 @andromedaprotocol | prev. Wells Fargo, Heliverse
 
 **Recent work includes:**
--   Capital-efficient quantum agentic prediction markets** (real-world asset strategies, deploy 100% capital) — [Repo](https://github.com/preyanshu/verdict)
+-   Capital-efficient quantum agentic prediction markets (real-world asset strategies, deploy 100% capital) — [Repo](https://github.com/preyanshu/verdict)
 
 -   Multiparty EdDSA (MPC) signing library in TypeScript — [Repo](https://github.com/preyanshu/tss-eddsa)
     
