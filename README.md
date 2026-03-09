@@ -1,5 +1,5 @@
 
-**Web3 Developer / Software Engineer**  
+**Software Engineer**  
 technology program intern@Wells Fargo | prev. web3 dev @andromedaprotcol, Heliverse
 
 **Recent work includes:**
